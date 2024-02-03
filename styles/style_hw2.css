@@ -402,8 +402,8 @@ section img {
     border: 1px solid white;
     border-radius: 20px;
     transition: transform 0.5s;
-    width: 250px;
-    height: 300px;
+    width: 20%;
+    height: 30%;
     overflow: hidden;
     text-align: center;
     display: flex;
